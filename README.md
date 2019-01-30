@@ -1,6 +1,4 @@
-# Sammaru.Seminar.Github
+# github.tutorial + Jenkins
 
-[![Jenkins Build](http://sammaru.cbnu.ac.kr:8080/job/lis123kr's%20seminar/badge/icon?style=plastic)](http://sammaru.cbnu.ac.kr:8080/job/lis123kr's%20seminar/)
-
-This is for a seminar in SAMMaru.
+This is a project for tutorial using jenkins with Junit test.
 
